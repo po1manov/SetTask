@@ -1,7 +1,5 @@
 ### SetTask
 
-https://github.com/po1manov/SetTask
-
 ## Founders of SetTask:
 
 [Igor Tsyupko](https://github.com/xMrazz)
